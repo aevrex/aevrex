@@ -16,12 +16,14 @@
       <tr>
         <th>Frontend</th>
         <th>Backend</th>
+        <th>Other</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&perline=4" /></td>
         <td><img src="https://skillicons.dev/icons?i=go,gcp,firebase&perline=5" /></td>
+        <td><img src="https://skillicons.dev/icons?i=latex&perline=5" /></td>
       </tr>
     </tbody>
   </table>
