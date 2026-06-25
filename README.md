@@ -9,12 +9,7 @@
 [![Status](https://img.shields.io/badge/Status-Building-success?style=for-the-badge)]()
 
 ---
-
-*"Simple software scales further than complicated software."*
-
 </div>
-
-## About Me
 
 I'm a developer based in Perth, Australia focused on building:
 
@@ -29,17 +24,6 @@ My preferred stack is intentionally simple:
 ```text
 Go + HTMX + SQLite + Docker
 ```
-
-I enjoy building software that is:
-
-- Fast
-- Maintainable
-- Self-hostable
-- Easy to deploy
-- Low operational overhead
-
----
-
 ## Current Focus
 
 ```yaml
@@ -66,19 +50,19 @@ Exploring:
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,docker" />
+<img src="https://skillicons.dev/icons?i=go" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=htmx,tailwind" />
+<img src="https://skillicons.dev/icons?i=htmx" />
 </p>
 
 ### Data & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite,cloudflare" />
+<img src="https://skillicons.dev/icons?i=sqlite,docker,cloudflare" />
 </p>
 
 ---
