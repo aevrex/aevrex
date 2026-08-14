@@ -59,13 +59,13 @@ Frontend
 Data & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite,docker,cloudflare" />
+<img src="https://skillicons.dev/icons?i=sqlite,cloudflare" />
 </p>
 
 Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,ansible,linux" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,ansible,linux" />
 </p>
 
 ---
