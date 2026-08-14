@@ -21,14 +21,12 @@ I'm a developer based in Perth, Australia focused on building:
 
 My preferred stack is intentionally simple:
 
-```text
 Go + HTMX + SQLite + Docker
-```
-## Current Focus
 
-```yaml
+Current Focus
+
 Learning:
-  - Cloud Engineering
+  - Cloud Engineering (GCP ACE -> AWS CCP -> GCP DevOps Engineer -> AWS DevOps Pro)
   - Infrastructure Automation
   - DevOps Practices
 
@@ -36,73 +34,70 @@ Building:
   - Aevra.dev
   - Soren
   - Fisher
+  - Homelab k3s cluster (OpenTofu + Ansible + ArgoCD, fully as code)
 
 Exploring:
   - Self-hosted SaaS
   - Business Automation
   - AI Assisted Development
-```
 
 ---
+Tech Stack
 
-## Tech Stack
-
-### Backend
+Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=go" />
 </p>
 
-### Frontend
+Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=htmx" />
 </p>
 
-### Data & Infrastructure
+Data & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=sqlite,docker,cloudflare" />
 </p>
 
----
+Cloud & DevOps
 
-## Featured Projects
-
-### Soren
-
-Lightweight Go application focused on simplicity and performance.
-
-[![Repo](https://img.shields.io/badge/View_Repository-black?style=for-the-badge&logo=github)](https://github.com/aevrex/soren)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,ansible,linux" />
+</p>
 
 ---
+Featured Projects
 
-### Fisher
+Soren
 
-Fishing log and gear inventory platform built with:
+Lightweight Go application focused on simplicity and
+performance.
 
-- Go
-- HTMX
-- SQLite
-- Docker
-
-Features:
-
-- Catch logging
-- Gear tracking
-- Self-hosted deployment
+Repo (https://img.shields.io/badge/View_Repository-black?style=for-the-badge&logo=github) (https://github.com/aevrex/soren)
 
 ---
+Homelab GitOps
 
-### Aevra.dev
+Rebuilding my home server from a single VM into a 3-node k3s cluster, provisioned end-to-end as code:
+
+- OpenTofu — provisions Hyper-V VMs
+- Ansible — configures the OS and installs k3s
+- ArgoCD — GitOps-reconciles everything else from a git repo
+
+Goal: if the host dies, the whole stack rebuilds from git instead of manual recovery. Doubles as hands-on practice for the cloud/DevOps certs above.
+
+---
+Aevra.dev
 
 Development, hosting, automation and infrastructure services.
 
 Building a modern one-person digital services business powered by automation.
 
 ---
-
-## Connect
+Connect
 
 <div align="center">
 
